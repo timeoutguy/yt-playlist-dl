@@ -1,0 +1,12 @@
+{
+  "name": "mp3-yt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.9.1",
+    "ytpl": "^2.2.3"
+  }
+}
